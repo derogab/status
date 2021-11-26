@@ -40,7 +40,7 @@
     "url": "https://briele.ga",
     "icon": "https://favicons.githubusercontent.com/briele.ga",
     "slug": "briele-ga",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,6 +51,8 @@
     "timeWeek": 526,
     "timeMonth": 526,
     "timeYear": 526,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-26": 0
+    }
   }
 ]
