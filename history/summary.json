@@ -40,19 +40,19 @@
     "url": "https://briele.ga",
     "icon": "https://favicons.githubusercontent.com/briele.ga",
     "slug": "briele-ga",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 526,
-    "timeDay": 423,
-    "timeWeek": 526,
-    "timeMonth": 526,
-    "timeYear": 526,
+    "status": "up",
+    "uptime": "99.20%",
+    "uptimeDay": "96.89%",
+    "uptimeWeek": "99.20%",
+    "uptimeMonth": "99.20%",
+    "uptimeYear": "99.20%",
+    "time": 630,
+    "timeDay": 838,
+    "timeWeek": 630,
+    "timeMonth": 630,
+    "timeYear": 630,
     "dailyMinutesDown": {
-      "2021-11-26": 0
+      "2021-11-26": 45
     }
   }
 ]
