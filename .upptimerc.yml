@@ -14,8 +14,8 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://avatars.githubusercontent.com/u/4183824?v=4
   name: Status
-  introTitle: "**Status** / uptime monitor and status page"
-  introMessage: A status page which uses **real-time** data from our [GitHub repository](https://github.com/derogab/status). No server required — just GitHub Actions, Issues, and Pages. 
+  introTitle: "**Status Dashboard**: uptime monitor" 
+  introMessage: " "
   navbar:
     - title: Status
       href: /
