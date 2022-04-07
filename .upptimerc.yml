@@ -14,7 +14,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://avatars.githubusercontent.com/u/4183824?v=4
   name: Status
-  introTitle: "**Status Dashboard**: uptime monitor" 
+  introTitle: "**Status Dashboard** / uptime monitor" 
   introMessage: " "
   navbar:
     - title: Status
