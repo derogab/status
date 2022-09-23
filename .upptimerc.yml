@@ -12,7 +12,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.derogab.com
   # baseUrl: /your-repo-name
-  favicon: https://raw.githubusercontent.com/derogab/derogab/master/assets/favicon.ico
+  favicon: https://raw.githubusercontent.com/derogab/derogab/master/assets/favicon.png
   logoUrl: https://raw.githubusercontent.com/derogab/derogab/master/assets/logo.png
   name: Status
   introTitle: "**Status Dashboard** / uptime monitor" 
