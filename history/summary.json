@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 274,
-    "timeDay": 200,
-    "timeWeek": 244,
-    "timeMonth": 268,
+    "timeDay": 227,
+    "timeWeek": 243,
+    "timeMonth": 269,
     "timeYear": 262,
     "dailyMinutesDown": {}
   },
@@ -24,17 +24,15 @@
     "slug": "derosagabriele-com",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 529,
-    "timeDay": 381,
-    "timeWeek": 447,
-    "timeMonth": 482,
+    "time": 528,
+    "timeDay": 347,
+    "timeWeek": 436,
+    "timeMonth": 481,
     "timeYear": 488,
-    "dailyMinutesDown": {
-      "2023-10-20": 8
-    }
+    "dailyMinutesDown": {}
   }
 ]
