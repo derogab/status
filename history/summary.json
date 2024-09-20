@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 273,
-    "timeDay": 372,
-    "timeWeek": 325,
+    "timeDay": 341,
+    "timeWeek": 323,
     "timeMonth": 304,
-    "timeYear": 273,
+    "timeYear": 274,
     "dailyMinutesDown": {}
   },
   {
@@ -22,19 +22,19 @@
     "url": "https://derosagabriele.com",
     "icon": "https://icons.duckduckgo.com/ip3/derosagabriele.com.ico",
     "slug": "derosagabriele-com",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "76.73%",
-    "uptimeWeek": "96.68%",
-    "uptimeMonth": "99.24%",
-    "uptimeYear": "99.94%",
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "37.70%",
+    "uptimeWeek": "91.10%",
+    "uptimeMonth": "97.95%",
+    "uptimeYear": "99.83%",
     "time": 185,
-    "timeDay": 144,
+    "timeDay": 161,
     "timeWeek": 142,
     "timeMonth": 144,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2024-09-20": 128,
+      "2024-09-20": 690,
       "2024-09-19": 207
     }
   }
