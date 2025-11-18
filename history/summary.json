@@ -4,19 +4,19 @@
     "url": "https://derogab.com",
     "icon": "https://icons.duckduckgo.com/ip3/derogab.com.ico",
     "slug": "derogab-com",
-    "status": "down",
-    "uptime": "99.76%",
-    "uptimeDay": "97.33%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.75%",
+    "uptimeDay": "90.15%",
+    "uptimeWeek": "98.59%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.97%",
     "time": 196,
-    "timeDay": 237,
-    "timeWeek": 212,
+    "timeDay": 231,
+    "timeWeek": 211,
     "timeMonth": 218,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2025-11-18": 38
+      "2025-11-18": 141
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://derosagabriele.com",
     "icon": "https://icons.duckduckgo.com/ip3/derosagabriele.com.ico",
     "slug": "derosagabriele-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "97.33%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "90.15%",
+    "uptimeWeek": "98.59%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.97%",
     "time": 148,
-    "timeDay": 238,
-    "timeWeek": 183,
-    "timeMonth": 192,
+    "timeDay": 220,
+    "timeWeek": 181,
+    "timeMonth": 191,
     "timeYear": 149,
     "dailyMinutesDown": {
-      "2025-11-18": 38
+      "2025-11-18": 141
     }
   }
 ]
