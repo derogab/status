@@ -17,6 +17,7 @@ status-website:
   name: Status
   introTitle: "**Status Dashboard** / uptime monitor" 
   introMessage: " "
+  css: ":root { --body-background-color: #0d1117; --body-text-color: #e6edf3; --card-background-color: #161b22; --nav-background-color: #161b22; --nav-border-bottom-color: #1a6b8a; --nav-current-border-bottom-color: #68c7f3; --card-border-color: #30363d; --down-border-left-color: #f85149; --down-background-color: #3d1418; --degraded-border-left-color: #d29922; --up-border-left-color: #3fb950; --tag-color: #ffffff; --tag-up-background-color: #238636; --tag-down-background-color: #da3633; --tag-degraded-background-color: #9e6a03; --change-background-color: #388bfd; --error-button-border-color: #388bfd; --error-button-background-color: #1f6feb; --error-button-color: #ffffff; --submit-button-border-color: #388bfd; --submit-button-background-color: #1f6feb; --submit-button-color: #ffffff; --graph-opacity: 0.85; --graph-filter: hue-rotate(45deg) saturate(180%) brightness(85%); }"
   navbar:
     - title: Status
       href: /
